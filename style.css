@@ -1,0 +1,17 @@
+body {
+  margin: 8px 30px; }
+
+header {
+  min-height: 70px;
+  width: 100%;
+  background-color: #f9f9f9; }
+
+#logo {
+  width: 30%; }
+
+nav {
+  width: 70%; }
+  nav li {
+    display: inline-block; }
+
+/*# sourceMappingURL=style.css.map */
